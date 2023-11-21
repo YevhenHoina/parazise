@@ -1,2 +1,2 @@
 ### This is Unreal Project for Parazise game
-![Sample Image](<sheets/Generation.png>)
+![Sample Image](<Sheets/Generation.png>)
