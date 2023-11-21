@@ -1,15 +1,15 @@
 {
-	"folders": [
-		{
-			"name": "Prosedural",
+    "folders": [
+      {
+        "name": "Prosedural",
 			"path": "."
 		},
 		{
 			"name": "UE5",
 			"path": "D:\\EpicGames\\Epic Games\\Games\\UE_5.3"
-		}
-	],
-	"settings": {
+      }
+    ],
+    "settings": {
 		"typescript.tsc.autoDetect": "off",
 		"npm.autoDetect": "off"
 	},
